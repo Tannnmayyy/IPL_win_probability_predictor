@@ -9,6 +9,7 @@ The **IPL Win Predictor** uses historical IPL match data(2008-2019) to train a m
   - Numpy
   - scikit-learn
   - Streamlit
+  - Pickle
 - **Preprocessing**:
   - One-hot encoding for categorical features
   - Feature engineering: remaining runs, balls left, required run rate, current run rate etc.
